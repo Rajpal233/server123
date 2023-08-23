@@ -1,0 +1,10 @@
+1) yum
+2) netstart -ntlp
+3) scp
+4)ssh
+5) ps -ef
+6) awk
+7) curl
+8) wget
+9) find
+10)du
